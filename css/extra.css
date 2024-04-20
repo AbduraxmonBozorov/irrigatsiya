@@ -1,0 +1,17 @@
+
+.kirish{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+}
+.kirish a{
+    color: #0060aa;
+}
+
+.navbar{
+    background-color: #0060aa;
+}
+
+.boglanish{
+    cursor: pointer;
+}
